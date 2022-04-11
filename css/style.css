@@ -39,10 +39,8 @@ header {
 }
 /*Cambio para probar branch con git*/
 .logo:hover {
-    transform: scale(1.5);
+    transform: scale(1.0);
 }
-
-
 
 nav ul {
     display: flex;
