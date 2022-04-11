@@ -37,6 +37,12 @@ header {
     box-shadow: -5px -5px 6px #cdb5da,
         5px 5px 6px #f1d5ff;
 }
+/*Cambio para probar branch con git*/
+.logo:hover {
+    transform: scale(1.5);
+}
+
+
 
 nav ul {
     display: flex;
